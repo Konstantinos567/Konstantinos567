@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm <Your Name>
 
-<!--
-**Konstantinos567/Konstantinos567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior Java Backend Developer focused on building REST APIs with Spring Boot.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- MySQL
+- JPA / Hibernate
+- Docker
+- Maven
+- Git / GitHub
+
+## Current Focus
+
+I am currently improving my backend development skills by building real-world backend applications with authentication, authorization, database persistence and Docker support.
+
+## Featured Project
+
+### Spring Boot E-Commerce REST API
+
+A backend REST API for an e-commerce application with JWT authentication, role-based authorization, product management, cart functionality, order submission, reviews and ratings, MySQL persistence and Docker support.
+
+## Contact
+
+- LinkedIn: <your LinkedIn URL>
