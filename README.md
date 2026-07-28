@@ -26,4 +26,4 @@ A backend REST API for an e-commerce application with JWT authentication, role-b
 
 ## Contact
 
-- LinkedIn: <your LinkedIn URL>
+- LinkedIn: <https://www.linkedin.com/in/konstantinos-gkrestas-a61a63252/>
