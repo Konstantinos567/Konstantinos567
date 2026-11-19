@@ -24,6 +24,11 @@ I am currently improving my backend development skills by building real-world ba
 
 A backend REST API for an e-commerce application with JWT authentication, role-based authorization, product management, cart functionality, order submission, reviews and ratings, MySQL persistence and Docker support.
 
+### Full-Stack User Registration App
+
+A full-stack web application for registering, viewing and deleting users, with a Spring Boot REST API, a jQuery single-page frontend, server-side validation, MySQL persistence with JPA/Hibernate and Docker Compose support.
+
+
 ## Contact
 
 - LinkedIn: <https://www.linkedin.com/in/konstantinos-gkrestas-a61a63252/>
